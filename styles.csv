@@ -74,6 +74,7 @@ Style: game-streetfighter,"Street Fighter style {prompt}, vibrant, dynamic, arca
 Style: game-zelda,"Legend of Zelda style {prompt}, vibrant, fantasy, detailed, epic, heroic, reminiscent of The Legend of Zelda series","sci-fi, modern, realistic, horror"
 >>>>>> MISC
 Style: misc-architectural,"architectural style {prompt}, clean lines, geometric shapes, minimalist, modern, architectural drawing, highly detailed","curved lines, ornate, baroque, abstract, grunge"
+Style: misc-character referencesheet,"character reference sheet {prompt}, turnaround views, detailed anatomy, color palette, multiple poses, highly detailed","simplistic, minimalist, vague, incomplete"
 Style: misc-chibi,"chibi style {prompt}, cute, adorable, bright colors, cheerful, highly detailed","dark, scary, realistic, monochrome, abstract"
 Style: misc-disco,"disco-themed {prompt}, vibrant, groovy, retro 70s style, shiny disco balls, neon lights, dance floor, highly detailed","minimalist, rustic, monochrome, contemporary, simplistic"
 Style: misc-dreamscape,"dreamscape {prompt}, surreal, ethereal, dreamy, mysterious, fantasy, highly detailed","realistic, concrete, ordinary, mundane"
@@ -91,6 +92,7 @@ Style: misc-metropolis,"metropolis-themed {prompt}, urban, cityscape, skyscraper
 Style: misc-minimalist,"minimalist style {prompt}, simple, clean, uncluttered, modern, elegant","ornate, complicated, highly detailed, cluttered, disordered, messy, noisy"
 Style: misc-monochrome,"monochrome {prompt}, black and white, contrast, tone, texture, detailed","colorful, vibrant, noisy, blurry, deformed"
 Style: misc-nautical,"nautical-themed {prompt}, sea, ocean, ships, maritime, beach, marine life, highly detailed","landlocked, desert, mountains, urban, rustic"
+Style: misc-scientific,"scientific illustration, {prompt}, detailed, annotated, educational, informational","simplistic, cartoon, abstract"
 Style: misc-space,"space-themed {prompt}, cosmic, celestial, stars, galaxies, nebulas, planets, science fiction, highly detailed","earthly, mundane, ground-based, realism"
 Style: misc-stained glass,"stained glass style {prompt}, vibrant, beautiful, translucent, intricate, detailed","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
 Style: misc-techwear fashion,"techwear fashion {prompt}, futuristic, cyberpunk, urban, tactical, sleek, dark, highly detailed","vintage, rural, colorful, low contrast, realism, sketch, watercolor"

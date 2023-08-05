@@ -1,5 +1,5 @@
-﻿name,prompt,negative_prompt,
->>>>>> SDXL COMFYUI PORT
+﻿name,prompt,negative_prompt
+>>>>>> SDXL COMFYUI PORT,,
 Style: Enhance,"breathtaking {prompt}, award-winning, professional, highly detailed","ugly, deformed, noisy, blurry, distorted, grainy"
 Style: sai-3d-model,"professional 3d model {prompt}, octane render, highly detailed, volumetric, dramatic lighting","ugly, deformed, noisy, low poly, blurry, painting"
 Style: sai-analog film,"analog film photo {prompt}, faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage","painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
@@ -18,7 +18,7 @@ Style: sai-origami,"origami style {prompt}, paper art, pleated paper, folded, or
 Style: sai-photographic,"cinematic photo {prompt}, 35mm photograph, film, bokeh, professional, 4k, highly detailed","drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
 Style: sai-pixel art,"pixel-art {prompt}, low-res, blocky, pixel art style, 8-bit graphics","sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic"
 Style: sai-texture,"texture {prompt} top down close-up","ugly, deformed, noisy, blurry"
->>>>>> ADS
+>>>>>> ADS,,
 Style: ads-advertising,"Advertising poster style {prompt}, Professional, modern, product-focused, commercial, eye-catching, highly detailed","noisy, blurry, amateurish, sloppy, unattractive"
 Style: ads-automotive,"Automotive advertisement style {prompt}, Sleek, dynamic, professional, commercial, vehicle-focused, high-resolution, highly detailed","noisy, blurry, unattractive, sloppy, unprofessional"
 Style: ads-corporate,"Corporate branding style {prompt}, Professional, clean, modern, sleek, minimalist, business-oriented, highly detailed","noisy, blurry, grungy, sloppy, cluttered, disorganized"
@@ -27,7 +27,7 @@ Style: ads-food photography,"Food photography style {prompt}, Appetizing, profes
 Style: ads-luxury,"Luxury product style {prompt}, Elegant, sophisticated, high-end, luxurious, professional, highly detailed","cheap, noisy, blurry, unattractive, amateurish"
 Style: ads-real estate,"Real estate photography style {prompt}, Professional, inviting, well-lit, high-resolution, property-focused, commercial, highly detailed","dark, blurry, unappealing, noisy, unprofessional"
 Style: ads-retail,"Retail packaging style {prompt}, Vibrant, enticing, commercial, product-focused, eye-catching, professional, highly detailed","noisy, blurry, amateurish, sloppy, unattractive"
->>>>>> ARTSTYLE
+>>>>>> ARTSTYLE,,
 Style: artstyle-abstract,"abstract style {prompt}, non-representational, colors and shapes, expression of feelings, imaginative, highly detailed","realistic, photographic, figurative, concrete"
 Style: artstyle-abstract expressionism,"abstract expressionist painting {prompt}, energetic brushwork, bold colors, abstract forms, expressive, emotional","realistic, photorealistic, low contrast, plain, simple, monochrome"
 Style: artstyle-art deco,"Art Deco style {prompt}, geometric shapes, bold colors, luxurious, elegant, decorative, symmetrical, ornate, detailed","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, modernist, minimalist"
@@ -47,7 +47,7 @@ Style: artstyle-steampunk,"steampunk style {prompt}, antique, mechanical, brass 
 Style: artstyle-surrealist,"surrealist art {prompt}, dreamlike, mysterious, provocative, symbolic, intricate, detailed","anime, photorealistic, realistic, deformed, glitch, noisy, low contrast"
 Style: artstyle-typography,"typographic art {prompt}, stylized, intricate, detailed, artistic, text-based","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
 Style: artstyle-watercolor,"watercolor painting {prompt}, vibrant, beautiful, painterly, detailed, textural, artistic","anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
->>>>>> FUTURISTIC
+>>>>>> FUTURISTIC,,
 Style: futuristic-biomechanical,"biomechanical style {prompt}, blend of organic and mechanical elements, futuristic, cybernetic, detailed, intricate","natural, rustic, primitive, organic, simplistic"
 Style: futuristic-biomechanical cyberpunk,"biomechanical cyberpunk {prompt}, cybernetics, human-machine fusion, dystopian, organic meets artificial, dark, intricate, highly detailed","natural, colorful, deformed, sketch, low contrast, watercolor"
 Style: futuristic-cybernetic,"cybernetic style {prompt}, futuristic, technological, cybernetic enhancements, robotics, artificial intelligence themes","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval"
@@ -58,7 +58,7 @@ Style: futuristic-retro cyberpunk,"retro cyberpunk {prompt}, 80's inspired, synt
 Style: futuristic-retro futurism,"retro-futuristic {prompt}, vintage sci-fi, 50s and 60s style, atomic age, vibrant, highly detailed","contemporary, realistic, rustic, primitive"
 Style: futuristic-sci-fi,"sci-fi style {prompt}, futuristic, technological, alien worlds, space themes, advanced civilizations","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval"
 Style: futuristic-vaporwave,"vaporwave style {prompt}, retro aesthetic, cyberpunk, vibrant, neon colors, vintage 80s and 90s style, highly detailed","monochrome, muted colors, realism, rustic, minimalist, dark"
->>>>>> GAME
+>>>>>> GAME,,
 Style: game-bubble bobble,"Bubble Bobble style {prompt}, 8-bit, cute, pixelated, fantasy, vibrant, reminiscent of Bubble Bobble game","realistic, modern, photorealistic, violent, horror"
 Style: game-cyberpunk game,"cyberpunk game style {prompt}, neon, dystopian, futuristic, digital, vibrant, detailed, high contrast, reminiscent of cyberpunk genre video games","historical, natural, rustic, low detailed"
 Style: game-fighting game,"fighting game style {prompt}, dynamic, vibrant, action-packed, detailed character design, reminiscent of fighting video games","peaceful, calm, minimalist, photorealistic"
@@ -72,7 +72,7 @@ Style: game-rpg fantasy game,"role-playing game (RPG) style fantasy {prompt}, de
 Style: game-strategy game,"strategy game style {prompt}, overhead view, detailed map, units, reminiscent of real-time strategy video games","first-person view, modern, photorealistic"
 Style: game-streetfighter,"Street Fighter style {prompt}, vibrant, dynamic, arcade, 2D fighting game, highly detailed, reminiscent of Street Fighter series","3D, realistic, modern, photorealistic, turn-based strategy"
 Style: game-zelda,"Legend of Zelda style {prompt}, vibrant, fantasy, detailed, epic, heroic, reminiscent of The Legend of Zelda series","sci-fi, modern, realistic, horror"
->>>>>> MISC
+>>>>>> MISC,,
 Style: misc-architectural,"architectural style {prompt}, clean lines, geometric shapes, minimalist, modern, architectural drawing, highly detailed","curved lines, ornate, baroque, abstract, grunge"
 Style: misc-character referencesheet,"character reference sheet {prompt}, turnaround views, detailed anatomy, color palette, multiple poses, highly detailed","simplistic, minimalist, vague, incomplete"
 Style: misc-chibi,"chibi style {prompt}, cute, adorable, bright colors, cheerful, highly detailed","dark, scary, realistic, monochrome, abstract"
@@ -98,7 +98,7 @@ Style: misc-stained glass,"stained glass style {prompt}, vibrant, beautiful, tra
 Style: misc-techwear fashion,"techwear fashion {prompt}, futuristic, cyberpunk, urban, tactical, sleek, dark, highly detailed","vintage, rural, colorful, low contrast, realism, sketch, watercolor"
 Style: misc-tribal,"tribal style {prompt}, indigenous, ethnic, traditional patterns, bold, natural colors, highly detailed","modern, futuristic, minimalist, pastel"
 Style: misc-zentangle,"zentangle {prompt}, intricate, abstract, monochrome, patterns, meditative, highly detailed","colorful, representative, simplistic, large fields of color"
->>>>>> PAPERCRAFT
+>>>>>> PAPERCRAFT,,
 Style: papercraft-collage,"collage style {prompt}, mixed media, layered, textural, detailed, artistic","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
 Style: papercraft-flat papercut,"flat papercut style {prompt}, silhouette, clean cuts, paper, sharp edges, minimalist, color block","3D, high detail, noise, grainy, blurry, painting, drawing, photo, disfigured"
 Style: papercraft-kirigami,"kirigami representation of {prompt}, 3D, paper folding, paper cutting, Japanese, intricate, symmetrical, precision, clean lines","painting, drawing, 2D, noisy, blurry, deformed"
@@ -108,7 +108,7 @@ Style: papercraft-papercut collage,"papercut collage of {prompt}, mixed media, t
 Style: papercraft-papercut shadow box,"3D papercut shadow box of {prompt}, layered, dimensional, depth, silhouette, shadow, papercut, handmade, high contrast","painting, drawing, photo, 2D, flat, high detail, blurry, noisy, disfigured"
 Style: papercraft-stacked papercut,"stacked papercut art of {prompt}, 3D, layered, dimensional, depth, precision cut, stacked layers, papercut, high contrast","2D, flat, noisy, blurry, painting, drawing, photo, deformed"
 Style: papercraft-thick layered papercut,"thick layered papercut art of {prompt}, deep 3D, volumetric, dimensional, depth, thick paper, high stack, heavy texture, tangible layers","2D, flat, thin paper, low stack, smooth texture, painting, drawing, photo, deformed"
->>>>>> PHOTO
+>>>>>> PHOTO,,
 Style: photo-alien,"alien-themed {prompt}, extraterrestrial, cosmic, otherworldly, mysterious, sci-fi, highly detailed","earthly, mundane, common, realistic, simple"
 Style: photo-film noir,"film noir style {prompt}, monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vibrant, colorful"
 Style: photo-hdr,"HDR photo of {prompt}, High dynamic range, vivid, rich details, clear shadows and highlights, realistic, intense, enhanced contrast, highly detailed","flat, low contrast, oversaturated, underexposed, overexposed, blurred, noisy"

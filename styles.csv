@@ -87,6 +87,7 @@ Style: misc-horror,"horror-themed {prompt}, eerie, unsettling, dark, spooky, sus
 Style: misc-kawaii,"kawaii style {prompt}, cute, adorable, brightly colored, cheerful, anime influence, highly detailed","dark, scary, realistic, monochrome, abstract"
 Style: misc-lovecraftian,"lovecraftian horror {prompt}, eldritch, cosmic horror, unknown, mysterious, surreal, highly detailed","light-hearted, mundane, familiar, simplistic, realistic"
 Style: misc-macabre,"macabre style {prompt}, dark, gothic, grim, haunting, highly detailed","bright, cheerful, light-hearted, cartoonish, cute"
+Style: misc-magic the gathering, "Magic the gathering style,  {prompt}, magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, card art, dreamy", "photographic, realistic, realism, 35mm film, dslr, cropped, deformed, glitch, noise, noisy, off-center, duplicate, mutated, black and white"
 Style: misc-manga,"manga style {prompt}, vibrant, high-energy, detailed, iconic, Japanese comic style","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, Western comic style"
 Style: misc-metropolis,"metropolis-themed {prompt}, urban, cityscape, skyscrapers, modern, futuristic, highly detailed","rural, natural, rustic, historical, simple"
 Style: misc-minimalist,"minimalist style {prompt}, simple, clean, uncluttered, modern, elegant","ornate, complicated, highly detailed, cluttered, disordered, messy, noisy"

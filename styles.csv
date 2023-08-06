@@ -1,6 +1,5 @@
 ﻿name,prompt,negative_prompt
 >>>>>> SDXL COMFYUI PORT,,
-Style: Enhance,"breathtaking {prompt}, award-winning, professional, highly detailed","ugly, deformed, noisy, blurry, distorted, grainy"
 Style: sai-3d-model,"professional 3d model {prompt}, octane render, highly detailed, volumetric, dramatic lighting","ugly, deformed, noisy, low poly, blurry, painting"
 Style: sai-analog film,"analog film photo {prompt}, faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage","painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
 Style: sai-anime,"anime artwork {prompt}, anime style, key visual, vibrant, studio anime,  highly detailed","photo, deformed, black and white, realism, disfigured, low contrast"
@@ -117,6 +116,7 @@ Style: photo-long exposure,"long exposure photo of {prompt}, Blurred motion, str
 Style: photo-neon noir,"neon noir {prompt}, cyberpunk, dark, rainy streets, neon signs, high contrast, low light, vibrant, highly detailed","bright, sunny, daytime, low contrast, black and white, sketch, watercolor"
 Style: photo-silhouette,"silhouette style {prompt}, high contrast, minimalistic, black and white, stark, dramatic","ugly, deformed, noisy, blurry, low contrast, color, realism, photorealistic"
 Style: photo-tilt-shift,"tilt-shift photo of {prompt}, Selective focus, miniature effect, blurred background, highly detailed, vibrant, perspective control","blurry, noisy, deformed, flat, low contrast, unrealistic, oversaturated, underexposed"
+Style: photo-red-camera, "cinematic scene from {prompt}, American Shot, captured by Red Camera with 85mm lens, film directed by Wes Anderson, melancholic, environmental lighting",
 >>>>>> CAMERA SHOT DISTANCE,,
 Camera: Extreme Close-up,"extreme close-up shot of {prompt}",
 Camera: Close-up,"close-up shot of {prompt}",

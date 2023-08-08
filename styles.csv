@@ -73,6 +73,7 @@ Style: game-strategy game,"strategy game style {prompt}, overhead view, detailed
 Style: game-streetfighter,"Street Fighter style {prompt}, vibrant, dynamic, arcade, 2D fighting game, highly detailed, reminiscent of Street Fighter series","3D, realistic, modern, photorealistic, turn-based strategy"
 Style: game-zelda,"Legend of Zelda style {prompt}, vibrant, fantasy, detailed, epic, heroic, reminiscent of The Legend of Zelda series","sci-fi, modern, realistic, horror"
 >>>>>> MISC,,
+Style: misc-3D-Caricature, "disney 3d cartoon style, caricature, {prompt}, highly detailed, vfx", "black and white"
 Style: misc-architectural,"architectural style {prompt}, clean lines, geometric shapes, minimalist, modern, architectural drawing, highly detailed","curved lines, ornate, baroque, abstract, grunge"
 Style: misc-character referencesheet,"character reference sheet {prompt}, turnaround views, detailed anatomy, color palette, multiple poses, highly detailed","simplistic, minimalist, vague, incomplete"
 Style: misc-chibi,"chibi style {prompt}, cute, adorable, bright colors, cheerful, highly detailed","dark, scary, realistic, monochrome, abstract"

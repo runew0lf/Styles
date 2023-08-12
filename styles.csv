@@ -115,6 +115,7 @@
 ">>>>>> PHOTO","","",
 "Style: photo-alien","alien-themed {prompt}, extraterrestrial, cosmic, otherworldly, mysterious, sci-fi, highly detailed","earthly, mundane, common, realistic, simple",
 "Style: photo-film noir","film noir style {prompt}, monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vibrant, colorful",
+"Style: photo-found-footage-polaroid","a grainy real polaroid photo, {prompt}, flash photography, dimly lit, bad lighting, dark background, bright camera flash, creepy, nostalgic, night time, moody ambience, film grain","illegible text, blurry text, unreadable text, colourful, unrealistic, professional photography, professional lighting, day time, bright, oversaturated, high contrast, high quality, 3d render, painting, art"
 "Style: photo-hdr","HDR photo of {prompt}, High dynamic range, vivid, rich details, clear shadows and highlights, realistic, intense, enhanced contrast, highly detailed","flat, low contrast, oversaturated, underexposed, overexposed, blurred, noisy",
 "Style: photo-long exposure","long exposure photo of {prompt}, Blurred motion, streaks of light, surreal, dreamy, ghosting effect, highly detailed","static, noisy, deformed, shaky, abrupt, flat, low contrast",
 "Style: photo-neon noir","neon noir {prompt}, cyberpunk, dark, rainy streets, neon signs, high contrast, low light, vibrant, highly detailed","bright, sunny, daytime, low contrast, black and white, sketch, watercolor",

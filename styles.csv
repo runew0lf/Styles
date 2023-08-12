@@ -78,11 +78,13 @@
 "Style: misc-architectural","architectural style {prompt}, clean lines, geometric shapes, minimalist, modern, architectural drawing, highly detailed","curved lines, ornate, baroque, abstract, grunge",
 "Style: misc-character referencesheet","character reference sheet {prompt}, turnaround views, detailed anatomy, color palette, multiple poses, highly detailed","simplistic, minimalist, vague, incomplete",
 "Style: misc-chibi","chibi style {prompt}, cute, adorable, bright colors, cheerful, highly detailed","dark, scary, realistic, monochrome, abstract",
+"Style: misc-dieselpunk","dieselpunk style {prompt}, retro-futuristic, gritty, 1920s-1950s, sci-fi, highly detailed","clean, crisp, digital"
 "Style: misc-disco","disco-themed {prompt}, vibrant, groovy, retro 70s style, shiny disco balls, neon lights, dance floor, highly detailed","minimalist, rustic, monochrome, contemporary, simplistic",
 "Style: misc-dreamscape","dreamscape {prompt}, surreal, ethereal, dreamy, mysterious, fantasy, highly detailed","realistic, concrete, ordinary, mundane",
 "Style: misc-dystopian","dystopian style {prompt}, bleak, post-apocalyptic, somber, dramatic, highly detailed","ugly, deformed, noisy, blurry, low contrast, cheerful, optimistic, vibrant, colorful",
 "Style: misc-fairy tale","fairy tale {prompt}, magical, fantastical, enchanting, storybook style, highly detailed","realistic, modern, ordinary, mundane",
 "Style: misc-funkopop","funkopop style, {prompt}, bright colors, highly detailed","dark, scary, realistic, monochrome, abstract",
+"Style: misc-glitch art","glitch art {prompt}, digital distortion, psychedelic, cyberpunk, highly detailed","pristine, orderly, analog"
 "Style: misc-gothic","gothic style {prompt}, dark, mysterious, haunting, dramatic, ornate, detailed","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, cheerful, optimistic",
 "Style: misc-grunge","grunge style {prompt}, textured, distressed, vintage, edgy, punk rock vibe, dirty, noisy","smooth, clean, minimalist, sleek, modern, photorealistic",
 "Style: misc-horror","horror-themed {prompt}, eerie, unsettling, dark, spooky, suspenseful, grim, highly detailed","cheerful, bright, vibrant, light-hearted, cute",
@@ -122,6 +124,7 @@
 "Style: photo-silhouette","silhouette style {prompt}, high contrast, minimalistic, black and white, stark, dramatic","ugly, deformed, noisy, blurry, low contrast, color, realism, photorealistic",
 "Style: photo-tilt-shift","tilt-shift photo of {prompt}, Selective focus, miniature effect, blurred background, highly detailed, vibrant, perspective control","blurry, noisy, deformed, flat, low contrast, unrealistic, oversaturated, underexposed",
 "Style: photo-red-camera","cinematic scene from {prompt}, American Shot, captured by Red Camera with 85mm lens, film directed by Wes Anderson, melancholic, environmental lighting","",
+"Style: photo-duotone","duotone photo, {prompt}, high contrast, two color tones only, highly detailed","full color, complex palette"
 ">>>>>> LIGHTING","","",
 "Lighting: All Lights","cinematic lighting, dramatic lighting, high contrast, low key lighting, high key lighting, chiaroscuro lighting, Rembrandt lighting, split lighting, rim lighting, back lighting, side lighting, top lighting, bottom lighting, natural light, artificial light","",
 "Lighting: Artificial","artificial light","",

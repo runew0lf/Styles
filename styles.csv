@@ -1,4 +1,4 @@
-﻿name,prompt,negative_prompt,
+name,prompt,negative_prompt,
 ">>>>>> SDXL COMFYUI PORT","","",
 "Style: sai-3d-model","professional 3d model {prompt}, octane render, highly detailed, volumetric, dramatic lighting","ugly, deformed, noisy, low poly, blurry, painting",
 "Style: sai-analog film","analog film photo {prompt}, faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage","painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured",
